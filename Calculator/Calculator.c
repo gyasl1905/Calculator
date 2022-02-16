@@ -61,6 +61,9 @@ int add(int i1 ,int i2)
 
 char get_choice(void)
 {
+
+	//이쪽이랑 연결이 안되는기분..?
+
 	int Menu_input;
 
 	printf("please Menu choice\n");
